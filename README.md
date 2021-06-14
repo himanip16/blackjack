@@ -1,5 +1,5 @@
 # blackjack
-## beginner level python project (day11)
+## beginner level python project 
 
 The deck is unlimited in size.
 
